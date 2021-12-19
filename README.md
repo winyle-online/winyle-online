@@ -6,3 +6,5 @@ I still remember the times when I was using PHP version 3.0, there was no **jQue
 Those were hard times for developers ;)
 
 Currently I'm still programming, and in my spare time I sell phonograph records (vinyls), CDs and cassettes in my own online store called [**Winyle Online**](https://winyle-online.pl/).
+
+See my profile on [**StackOverflow**](https://stackoverflow.com/users/2932013/robert).
